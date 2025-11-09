@@ -15,7 +15,7 @@ pytest -m smoke --browser_name firefox --html=reports/report.html
 
 ------------------------------------------------------------------------------------
 
-## Key Features  
+## Key Features
 ✅ Page Object Model (POM) implementation
 
 ✅ Reusable utility functions for browser handling
